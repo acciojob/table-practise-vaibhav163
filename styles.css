@@ -1,4 +1,9 @@
- .table {
+.caption{
+         font-weight: bold;
+        font-size: 18px;
+        margin-bottom: 10px;
+        }
+.table {
             background-color: yellow;
             border: 1px solid black;
             
@@ -7,10 +12,5 @@
             border: 1px solid black;
             text-align: center;
             
-        }
-.caption {
-            font-weight: bold;
-            font-size: 18px;
-            margin-bottom: 10px;
         }
 
